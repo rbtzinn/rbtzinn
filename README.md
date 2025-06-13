@@ -9,7 +9,7 @@ Estudante de Ciência da Computação, amante da área de tecnologia e programa�
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=portifolio.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=random_teams.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
