@@ -22,4 +22,4 @@ Estudante de Ciência da Computação, amante da área de tecnologia e programa�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbtzinn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/roberto-gabriel-ara%C3%BAjo-miranda/)
-[<img src='https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Instagram' height='30'>]([https://www.linkedin.com/in/roberto-gabriel-ara%C3%BAjo-miranda/](https://www.instagram.com/rgabriel.04/))
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/rgabriel.04/)
