@@ -9,7 +9,7 @@ Estudante de Ciência da Computação, amante da área de tecnologia e programa�
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=sistema-de-gestao-de-tarefas&theme=dark)](https://github.com/rbtzinn/sistema-de-gestao-de-tarefas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=sistema-de-gestao-de-tarefas&theme=dark)](https://github.com/rbtzinn/middleware_rktec)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=clone_disneyplus&theme=dark)](https://github.com/rbtzinn/clone_disneyplus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=ecommerce&theme=dark)](https://github.com/rbtzinn/ecommerce)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=minhas-tarefas&theme=dark)](https://github.com/rbtzinn/minhas-tarefas)
