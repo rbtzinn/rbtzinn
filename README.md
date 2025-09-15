@@ -12,7 +12,7 @@ Estudante de Ciência da Computação, amante da área de tecnologia e programa�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=middleware_rktec&theme=dark)](https://github.com/rbtzinn/middleware_rktec)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=clone_disneyplus&theme=dark)](https://github.com/rbtzinn/clone_disneyplus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=ecommerce&theme=dark)](https://github.com/rbtzinn/ecommerce)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=minhas-tarefas&theme=dark)](https://github.com/rbtzinn/minhas-tarefas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=efood_api&theme=dark)](https://github.com/rbtzinn/efood_api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=portifolio&theme=dark)](https://github.com/rbtzinn/portifolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=random_teams&theme=dark)](https://github.com/rbtzinn/random_teams)
 
