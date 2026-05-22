@@ -89,15 +89,15 @@ Sistema Android para inventário RFID em tempo real, com leitura de tags, export
 
 ---
 
-## 📈 GitHub
+## 📈 GitHub & Projetos
 
-<div align="center">
+Tenho utilizado o GitHub para organizar projetos pessoais, estudos e aplicações práticas envolvendo frontend, mobile, APIs e dashboards.
 
-![Roberto GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbtzinn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+Meu foco atual está em projetos com **React.js, TypeScript, Next.js, Tailwind CSS, integração com APIs REST, visualização de dados e desenvolvimento mobile**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbtzinn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+Você pode conferir meus principais repositórios abaixo ou acessar meu perfil completo:
 
-</div>
+[![GitHub](https://img.shields.io/badge/Acessar%20meu%20GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbtzinn)
 
 ---
 
