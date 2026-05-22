@@ -107,7 +107,7 @@ Você pode conferir meus principais repositórios abaixo ou acessar meu perfil c
 |---|---|---|
 | [LUXE Store](https://github.com/rbtzinn/ecommerce) | E-commerce com catálogo dinâmico, carrinho, wishlist, painel administrativo e internacionalização. | React, TypeScript, Tailwind CSS, Zustand |
 | [StreamVibe](https://github.com/rbtzinn/clone_disneyplus) | Plataforma estilo streaming com busca, favoritos, carrosséis e integração com API de filmes. | React, TypeScript, Tailwind CSS, TMDB API |
-| [Dashboard Cultural](https://github.com/rbtzinn/portifolio) | Dashboard analítico com visualização de dados, KPIs e indicadores estratégicos. | React.js, Tailwind CSS, D3.js, Recharts |
+| [Dashboard Cultural](https://github.com/rbtzinn/EMPETUR_PAINEL) | Dashboard analítico com visualização de dados, KPIs e indicadores estratégicos. | React.js, Tailwind CSS, D3.js, Recharts |
 | [Middleware RKTEC](https://github.com/rbtzinn/middleware_rktec) | Middleware/API para integração, processamento e organização de dados. | Node.js, API REST |
 | [E-food API](https://github.com/rbtzinn/efood_api) | API para aplicação de delivery/e-commerce alimentício. | Node.js, Backend, API |
 | [Random Teams](https://github.com/rbtzinn/random_teams) | Aplicação para sorteio e organização de equipes. | JavaScript, Web |
