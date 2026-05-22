@@ -1,25 +1,127 @@
-### Olá 👋
+# Olá, eu sou Roberto Miranda 👋
 
-###### Sobre Roberto: 
-Estudante de Ciência da Computação, amante da área de tecnologia e programação web e mobile.
+### Desenvolvedor Frontend Júnior | React.js • TypeScript • Next.js • Mobile
 
-### Detalhes
+Sou Desenvolvedor Frontend Júnior, formado em Ciência da Computação, com experiência prática no desenvolvimento de interfaces web e mobile, dashboards analíticos, integração com APIs REST e criação de aplicações escaláveis.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbtzinn&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Atualmente atuo na **EMPETUR — Empresa de Turismo de Pernambuco**, desenvolvendo dashboards, painéis interativos e soluções voltadas para análise de dados, indicadores estratégicos e usabilidade.
 
-### Projetos
+Tenho experiência com projetos reais envolvendo **React, TypeScript, Next.js, Tailwind CSS, D3.js, Recharts, Flutter, Android, APIs REST e bancos de dados**.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=middleware_rktec&theme=dark)](https://github.com/rbtzinn/middleware_rktec)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=clone_disneyplus&theme=dark)](https://github.com/rbtzinn/clone_disneyplus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=ecommerce&theme=dark)](https://github.com/rbtzinn/ecommerce)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=efood_api&theme=dark)](https://github.com/rbtzinn/efood_api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=portifolio&theme=dark)](https://github.com/rbtzinn/portifolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=random_teams&theme=dark)](https://github.com/rbtzinn/random_teams)
+---
 
+## 🚀 Sobre mim
 
-### Linguagens utilizadas
+- 🎓 Bacharel em Ciência da Computação
+- 💻 Desenvolvedor Frontend Júnior
+- ⚛️ Foco em React.js, TypeScript, Next.js e Tailwind CSS
+- 📱 Experiência com Mobile usando Flutter, Dart, Kotlin e Java Android
+- 📊 Desenvolvimento de dashboards analíticos e interfaces orientadas a dados
+- 🔗 Integração com APIs REST e consumo de dados externos
+- 🧠 Perfil autodidata, prático e orientado a resultados
+- 🌎 Disponível para oportunidades remotas ou híbridas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbtzinn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/roberto-gabriel-ara%C3%BAjo-miranda/)
-[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/rgabriel.04/)
+## 🛠️ Stack Técnica
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Backend, Dados e Ferramentas
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+### 🛍️ LUXE Store — E-commerce Platform
+E-commerce premium com catálogo dinâmico, carrinho, wishlist persistente, painel administrativo completo e internacionalização PT-BR/EN.
+
+**Tecnologias:** React, TypeScript, Tailwind CSS, shadcn/ui, Zustand, i18n e Vite.
+
+---
+
+### 🎬 StreamVibe — Plataforma de Streaming
+Plataforma estilo Netflix com hero banner dinâmico, carrosséis por gênero, busca, favoritos persistentes e página de detalhes.
+
+**Tecnologias:** React, TypeScript, Tailwind CSS, TMDB API e Vite.
+
+---
+
+### 📊 Dashboard Cultural — EMPETUR
+Dashboard analítico com mapas de calor, KPIs e visualização de dados governamentais para descoberta de tendências.
+
+**Tecnologias:** React.js, Tailwind CSS, D3.js, Tremor e PapaParse.
+
+---
+
+### 🚗 App de Frotas
+Aplicativo mobile para controle de frotas, assinatura digital em canvas, modo offline e sincronização automática com Google Sheets.
+
+**Tecnologias:** Flutter, Dart, Google Apps Script e Material 3.
+
+---
+
+### 📡 Leitor RFID — Novo Atacarejo
+Sistema Android para inventário RFID em tempo real, com leitura de tags, exportação de relatórios e sincronização com CSV.
+
+**Tecnologias:** Android, Java, RFID, SQLite e CSV.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+
+![Roberto GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbtzinn&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbtzinn&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📂 Repositórios
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=middleware_rktec&theme=tokyonight&hide_border=true)](https://github.com/rbtzinn/middleware_rktec)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=clone_disneyplus&theme=tokyonight&hide_border=true)](https://github.com/rbtzinn/clone_disneyplus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=ecommerce&theme=tokyonight&hide_border=true)](https://github.com/rbtzinn/ecommerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=efood_api&theme=tokyonight&hide_border=true)](https://github.com/rbtzinn/efood_api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=portifolio&theme=tokyonight&hide_border=true)](https://github.com/rbtzinn/portifolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbtzinn&repo=random_teams&theme=tokyonight&hide_border=true)](https://github.com/rbtzinn/random_teams)
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-gabriel-ara%C3%BAjo-miranda/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rgabriel.04/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbtzinn)
+
+</div>
