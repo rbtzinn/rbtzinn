@@ -1,125 +1,107 @@
-# Olá, eu sou Roberto Miranda 👋
+<div align="center">
+  <h1>Olá, eu sou Roberto Miranda 👋</h1>
+  <h3>Desenvolvedor Frontend Pleno | React.js • TypeScript • Next.js</h3>
+  <p>
+    Transformo requisitos e dados em produtos digitais acessíveis, escaláveis e bem projetados.
+  </p>
+  <p>
+    <a href="https://portifoliorbt.vercel.app">
+      <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+    </a>
+    <a href="https://www.linkedin.com/in/roberto-gabriel-ara%C3%BAjo-miranda/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:rbtgabriel04@gmail.com">
+      <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+    </a>
+  </p>
+</div>
 
-### Desenvolvedor Frontend Júnior | React.js • TypeScript • Next.js • Mobile
+## Sobre mim
 
-Sou Desenvolvedor Frontend Júnior, formado em Ciência da Computação, com experiência prática no desenvolvimento de interfaces web e mobile, dashboards analíticos, integração com APIs REST e criação de aplicações escaláveis.
+Sou Desenvolvedor Frontend Pleno, bacharel em Ciência da Computação, com experiência na criação de aplicações web e mobile, dashboards analíticos, integração com APIs REST e visualização de dados.
 
-Atualmente atuo na **EMPETUR — Empresa de Turismo de Pernambuco**, desenvolvendo dashboards, painéis interativos e soluções voltadas para análise de dados, indicadores estratégicos e usabilidade.
+Atualmente, também atuo como **Gestor Técnico de Compliance (TI & IA) na Administração de Suape**, aplicando tecnologia, automação e inteligência artificial ao fortalecimento de controles internos e à mitigação de riscos.
 
-Tenho experiência com projetos reais envolvendo **React, TypeScript, Next.js, Tailwind CSS, D3.js, Recharts, Flutter, Android, APIs REST e bancos de dados**.
+Na **EMPETUR**, desenvolvo e mantenho soluções de transparência pública, transformando bases governamentais em interfaces acessíveis, responsivas e fáceis de consultar.
 
----
-
-## 🚀 Sobre mim
-
-- 🎓 Bacharel em Ciência da Computação
-- 💻 Desenvolvedor Frontend Júnior
-- ⚛️ Foco em React.js, TypeScript, Next.js e Tailwind CSS
-- 📱 Experiência com Mobile usando Flutter, Dart, Kotlin e Java Android
-- 📊 Desenvolvimento de dashboards analíticos e interfaces orientadas a dados
-- 🔗 Integração com APIs REST e consumo de dados externos
-- 🧠 Perfil autodidata, prático e orientado a resultados
+- 📍 Recife, Pernambuco, Brasil
+- 🎓 Ciência da Computação e Análise e Desenvolvimento de Sistemas
+- 💡 Experiência do levantamento de requisitos ao deploy
 - 🌎 Disponível para oportunidades remotas ou híbridas
 
----
+## O que eu faço
 
-## 🛠️ Stack Técnica
+- **Frontend:** interfaces responsivas, componentes reutilizáveis e experiências orientadas a dados.
+- **Dados:** tratamento de CSV, normalização, deduplicação, KPIs, filtros, gráficos e mapas interativos.
+- **Mobile:** aplicações multiplataforma com Flutter e desenvolvimento Android com Kotlin e Java.
+- **Integrações:** consumo de APIs REST, Google Sheets, serviços externos e persistência local.
+- **TI, IA e Compliance:** mapeamento de processos, automação de controles, análise de dados e apoio à gestão de riscos.
+
+## Tecnologias
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Backend, Dados e Ferramentas
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
----
+### Backend, dados e ferramentas
 
-## 📌 Projetos em destaque
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### 🛍️ LUXE Store — E-commerce Platform
-E-commerce premium com catálogo dinâmico, carrinho, wishlist persistente, painel administrativo completo e internacionalização PT-BR/EN.
+**Também utilizo:** D3.js, Tremor, React Simple Maps, TanStack Query, Zustand, PapaParse, shadcn/ui, Context API e Google Apps Script.
 
-**Tecnologias:** React, TypeScript, Tailwind CSS, shadcn/ui, Zustand, i18n e Vite.
+## Projetos em destaque
 
----
+| Projeto | Destaques | Tecnologias | Links |
+|---|---|---|---|
+| **Painel de Contratações Artísticas - EMPETUR** | Dashboard público com KPIs, filtros sincronizados, tabelas exportáveis, mapa de calor e processamento de bases governamentais no navegador. | React, Vite, Tailwind CSS, Tremor, D3-geo, PapaParse | [Repositório](https://github.com/rbtzinn/EMPETUR_PAINEL) · [Demo](https://empetur-painel.vercel.app) |
+| **LUXE Store** | E-commerce com catálogo dinâmico, carrinho e wishlist persistentes, internacionalização e painel administrativo. | React, TypeScript, Tailwind CSS, shadcn/ui, Zustand | [Repositório](https://github.com/rbtzinn/luxestore) · [Demo](https://luxestore-eight.vercel.app) |
+| **StreamVibe** | Plataforma de streaming com catálogo em tempo real, busca, favoritos, carrosséis por gênero e página de detalhes. | React, TypeScript, Tailwind CSS, TMDB API | [Repositório](https://github.com/rbtzinn/filmsPort) · [Demo](https://films-port.vercel.app) |
+| **App de Frotas** | Aplicativo com assinatura digital, funcionamento offline e sincronização automática com Google Sheets. | Flutter, Dart, Google Apps Script, Material 3 | [Repositório](https://github.com/rbtzinn/aplicativo_frotas) |
+| **Leitor RFID - Novo Atacarejo** | Solução Android para inventário RFID em tempo real, relatórios e sincronização por CSV, utilizada em produção. | Android, Java, RFID, SQLite, CSV | [Repositório](https://github.com/rbtzinn/RFID-NovoAtacarejo) |
 
-### 🎬 StreamVibe — Plataforma de Streaming
-Plataforma estilo Netflix com hero banner dinâmico, carrosséis por gênero, busca, favoritos persistentes e página de detalhes.
+## Formação
 
-**Tecnologias:** React, TypeScript, Tailwind CSS, TMDB API e Vite.
+- **Análise e Desenvolvimento de Sistemas** - Gran Faculdade, 2025-2026
+- **Bacharelado em Ciência da Computação** - UNINASSAU, 2022-2025
+- **Engenheiro Front-end** - EBAC, 2023-2025
+- **Técnico em Administração** - ETE José Alencar Gomes da Silva, 2019-2021
 
----
+## Vamos conversar?
 
-### 📊 Dashboard Cultural — EMPETUR
-Dashboard analítico com mapas de calor, KPIs e visualização de dados governamentais para descoberta de tendências.
-
-**Tecnologias:** React.js, Tailwind CSS, D3.js, Tremor e PapaParse.
-
----
-
-### 🚗 App de Frotas
-Aplicativo mobile para controle de frotas, assinatura digital em canvas, modo offline e sincronização automática com Google Sheets.
-
-**Tecnologias:** Flutter, Dart, Google Apps Script e Material 3.
-
----
-
-### 📡 Leitor RFID — Novo Atacarejo
-Sistema Android para inventário RFID em tempo real, com leitura de tags, exportação de relatórios e sincronização com CSV.
-
-**Tecnologias:** Android, Java, RFID, SQLite e CSV.
-
----
-
-## 📈 GitHub & Projetos
-
-Tenho utilizado o GitHub para organizar projetos pessoais, estudos e aplicações práticas envolvendo frontend, mobile, APIs e dashboards.
-
-Meu foco atual está em projetos com **React.js, TypeScript, Next.js, Tailwind CSS, integração com APIs REST, visualização de dados e desenvolvimento mobile**.
-
-Você pode conferir meus principais repositórios abaixo ou acessar meu perfil completo:
-
-[![GitHub](https://img.shields.io/badge/Acessar%20meu%20GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbtzinn)
-
----
-
-## 📌 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [LUXE Store](https://github.com/rbtzinn/ecommerce) | E-commerce com catálogo dinâmico, carrinho, wishlist, painel administrativo e internacionalização. | React, TypeScript, Tailwind CSS, Zustand |
-| [StreamVibe](https://github.com/rbtzinn/clone_disneyplus) | Plataforma estilo streaming com busca, favoritos, carrosséis e integração com API de filmes. | React, TypeScript, Tailwind CSS, TMDB API |
-| [Dashboard Cultural](https://github.com/rbtzinn/EMPETUR_PAINEL) | Dashboard analítico com visualização de dados, KPIs e indicadores estratégicos. | React.js, Tailwind CSS, D3.js, Recharts |
-| [Middleware RKTEC](https://github.com/rbtzinn/middleware_rktec) | Middleware/API para integração, processamento e organização de dados. | Node.js, API REST |
-| [E-food API](https://github.com/rbtzinn/efood_api) | API para aplicação de delivery/e-commerce alimentício. | Node.js, Backend, API |
-| [Random Teams](https://github.com/rbtzinn/random_teams) | Aplicação para sorteio e organização de equipes. | JavaScript, Web |
-
----
-
-## 📫 Contato
+Estou aberto a oportunidades em desenvolvimento frontend, projetos orientados a dados e soluções que conectem tecnologia, automação e melhoria de processos.
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-gabriel-ara%C3%BAjo-miranda/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rgabriel.04/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbtzinn)
-
+  <a href="mailto:rbtgabriel04@gmail.com">E-mail</a>
+  •
+  <a href="https://www.linkedin.com/in/roberto-gabriel-ara%C3%BAjo-miranda/">LinkedIn</a>
+  •
+  <a href="https://portifoliorbt.vercel.app">Portfólio</a>
+  •
+  <a href="https://github.com/rbtzinn">GitHub</a>
 </div>
