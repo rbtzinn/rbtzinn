@@ -1,251 +1,235 @@
-<div align="center">Roberto Miranda
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:06B6D4&text=Roberto%20Miranda&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Next.js&descAlignY=58&descSize=18"/><br/><a href="https://portifoliorbt.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/roberto-gabriel-ara%C3%BAjo-miranda/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:rbtgabriel04@gmail.com">
+  <img src="https://img.shields.io/badge/CONTATO-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><br/><br/>
 
-Frontend Developer | React • TypeScript • Next.js
+Construindo interfaces, produtos orientados a dados e automações que resolvem problemas reais.
 
-Interfaces modernas, produtos orientados a dados e automações que resolvem problemas reais.
-
-""Portfolio" (https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white)" (https://portifoliorbt.vercel.app)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/roberto-gabriel-ara%C3%BAjo-miranda/)
-""Email" (https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:rbtgabriel04@gmail.com)
-
-📍 Recife, Pernambuco, Brasil
+📍 Recife, Pernambuco — Brasil
 
 </div>---
 
-Sobre mim
+<table>
+<tr>
+<td width="55%" valign="top">👨‍💻 Sobre mim
 
-Sou desenvolvedor com foco em Frontend, especializado na construção de aplicações web modernas utilizando React, TypeScript e Next.js.
+Desenvolvedor com foco em Frontend, trabalhando principalmente com React, TypeScript e Next.js.
 
-Minha experiência vai além da interface: trabalho com visualização e tratamento de dados, integração com APIs, automação de processos e desenvolvimento de soluções internas, participando desde o levantamento de requisitos até a publicação e manutenção do produto.
+Tenho experiência desenvolvendo desde interfaces e dashboards até aplicações mobile, integrações com APIs, tratamento de grandes bases de dados e automações.
 
-Atualmente também aplico tecnologia, automação e inteligência artificial em projetos ligados a Compliance, controles internos e gestão de riscos na Administração de Suape.
+Também aplico tecnologia, dados e inteligência artificial em Compliance e gestão de riscos, criando soluções para ambientes corporativos e governamentais.
 
-Já desenvolvi soluções para transparência pública, dashboards governamentais, aplicativos móveis, sistemas administrativos e aplicações utilizadas em ambiente de produção.
+Hoje trabalho principalmente com
 
----
+- ⚛️ Aplicações React e Next.js
+- 📊 Dashboards e Data Visualization
+- 🔗 Integrações e APIs REST
+- 🤖 Automação e Inteligência Artificial
+- 🏛️ Soluções para setor público
+- 📱 Desenvolvimento Mobile
 
-Áreas de atuação
+</td><td width="45%" valign="top">🎯 Perfil
 
-Frontend Development     ████████████████████
-Data Visualization       ██████████████████░░
-API Integration          ██████████████████░░
-Automation               █████████████████░░░
-Mobile Development       ███████████████░░░░░
-AI & Process Improvement ███████████████░░░░░
+name: Roberto Miranda
 
-- Desenvolvimento de interfaces responsivas e acessíveis
-- Arquitetura de componentes reutilizáveis
-- Dashboards e visualização de dados
-- Integração e consumo de APIs REST
-- Tratamento de CSV e bases governamentais
-- Aplicações offline e sincronização de dados
-- Automação de processos
-- Tecnologia aplicada a Compliance e gestão de riscos
+role:
+  Frontend Developer
 
----
+focus:
+  - React
+  - TypeScript
+  - Next.js
+  - Data Visualization
 
-Stack principal
+interests:
+  - Artificial Intelligence
+  - Automation
+  - Data
+  - UX
+
+location:
+  Recife, Brazil
+
+</td>
+</tr>
+</table>---
+
+<div align="center">⚡ Tech Stack
 
 Frontend
 
-"React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-"Next.js" (https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-"Vite" (https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,vite"/>Backend & Data
 
-Dados, estado e interfaces
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite,python"/>Mobile & Tools
 
-"D3.js" (https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
-"TanStack Query" (https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-"Zustand" (https://img.shields.io/badge/Zustand-443E38?style=flat-square)
-"shadcn/ui" (https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,docker,git,github,aws,figma"/><br/>Também utilizo
 
-Também utilizo: Tremor, React Simple Maps, PapaParse, Context API e Google Sheets.
+"D3.js" • "Tremor" • "TanStack Query" • "Zustand" • "shadcn/ui" • "PapaParse" • "Google Apps Script"
 
-Backend e banco de dados
+</div>---
 
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-"Express" (https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-"SQLite" (https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<div align="center">🚀 Projetos em destaque
 
-Mobile
+</div><table>
+<tr><td width="50%" valign="top">🏛️ EMPETUR Analytics
 
-"Flutter" (https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-"Dart" (https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-"React Native" (https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-"Kotlin" (https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+Dashboard de transparência pública para análise das contratações artísticas do Governo de Pernambuco.
 
-Ferramentas e infraestrutura
+Destaques
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-"AWS" (https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-"Figma" (https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+📊 KPIs e indicadores
+🗺️ Visualização geográfica
+🔎 Filtros sincronizados
+📁 Exportação de dados
+⚡ Processamento no navegador
 
----
+Stack
 
-Projetos em destaque
+"React" "Vite" "Tailwind" "D3" "Tremor"
 
-🏛 Painel de Contratações Artísticas — EMPETUR
+<br/><a href="https://empetur-painel.vercel.app">
+<img src="https://img.shields.io/badge/ABRIR_PROJETO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a><a href="https://github.com/rbtzinn/EMPETUR_PAINEL">
+<img src="https://img.shields.io/badge/CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a></td><td width="50%" valign="top">🛍️ LUXE Store
 
-Dashboard público desenvolvido para transformar bases governamentais em informações acessíveis e fáceis de analisar.
+E-commerce moderno com gerenciamento de estado e experiência completa de compra.
 
-Principais recursos
+Destaques
 
-- KPIs e indicadores
-- Filtros sincronizados
-- Tabelas e exportação de dados
-- Visualização geográfica
-- Processamento de dados diretamente no navegador
-- Interface responsiva
+🛒 Carrinho persistente
+❤️ Wishlist
+🌎 Internacionalização
+⚙️ Painel administrativo
+📱 Interface responsiva
 
-Stack: React • Vite • Tailwind CSS • Tremor • D3 • PapaParse
+Stack
 
-"Repositório" (https://github.com/rbtzinn/EMPETUR_PAINEL) • "Ver aplicação" (https://empetur-painel.vercel.app)
+"React" "TypeScript" "Tailwind" "Zustand" "shadcn/ui"
 
----
+<br/><a href="https://luxestore-eight.vercel.app">
+<img src="https://img.shields.io/badge/ABRIR_PROJETO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a><a href="https://github.com/rbtzinn/luxestore">
+<img src="https://img.shields.io/badge/CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a></td>
+</tr><tr><td width="50%" valign="top">🎬 StreamVibe
 
-🛍 LUXE Store
+Plataforma de descoberta de filmes e séries integrada à API do TMDB.
 
-E-commerce desenvolvido com foco em experiência do usuário, organização de estado e arquitetura de componentes.
+Destaques
 
-Principais recursos
+🎞️ Catálogo em tempo real
+🔍 Pesquisa
+⭐ Favoritos
+🎭 Categorias
+📄 Página de detalhes
 
-- Catálogo dinâmico
-- Carrinho persistente
-- Wishlist
-- Internacionalização
-- Painel administrativo
-- Layout responsivo
+Stack
 
-Stack: React • TypeScript • Tailwind CSS • shadcn/ui • Zustand
+"React" "TypeScript" "Tailwind" "TMDB API"
 
-"Repositório" (https://github.com/rbtzinn/luxestore) • "Ver aplicação" (https://luxestore-eight.vercel.app)
+<br/><a href="https://films-port.vercel.app">
+<img src="https://img.shields.io/badge/ABRIR_PROJETO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a><a href="https://github.com/rbtzinn/filmsPort">
+<img src="https://img.shields.io/badge/CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a></td><td width="50%" valign="top">📡 RFID — Novo Atacarejo
 
----
+Aplicação Android utilizada para operações de inventário RFID.
 
-🎬 StreamVibe
+Destaques
 
-Aplicação de streaming integrada à API do TMDB para exploração e descoberta de filmes e séries.
+📡 RFID em tempo real
+📦 Inventário
+💾 Persistência local
+📑 Relatórios
+🔄 Importação/exportação CSV
 
-Principais recursos
+Stack
 
-- Catálogo em tempo real
-- Busca
-- Favoritos
-- Carrosséis por categoria
-- Página de detalhes
-- Consumo de API externa
+"Android" "Java" "RFID" "SQLite"
 
-Stack: React • TypeScript • Tailwind CSS • TMDB API
+<br/><a href="https://github.com/rbtzinn/RFID-NovoAtacarejo">
+<img src="https://img.shields.io/badge/CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a></td></tr>
+</table>---
 
-"Repositório" (https://github.com/rbtzinn/filmsPort) • "Ver aplicação" (https://films-port.vercel.app)
+<div align="center">🧠 Tecnologia + Dados + Negócio
 
----
+</div><table>
+<tr>
+<td align="center" width="25%">⚛️
 
-🚘 Sistema de Gestão de Frotas
+Frontend
 
-Aplicativo móvel desenvolvido para digitalização de processos operacionais de gestão de veículos.
+Interfaces modernas, responsivas e orientadas à experiência.
 
-Principais recursos
+</td><td align="center" width="25%">📊
 
-- Funcionamento offline
-- Assinatura digital
-- Registro de informações operacionais
-- Sincronização automática
-- Integração com Google Sheets
+Dados
 
-Stack: Flutter • Dart • Google Apps Script • Material 3
+Dashboards, KPIs, filtros e visualização de grandes bases.
 
-"Repositório" (https://github.com/rbtzinn/aplicativo_frotas)
+</td><td align="center" width="25%">🤖
 
----
+IA & Automação
 
-📡 Leitor RFID — Novo Atacarejo
+Tecnologia aplicada à análise e melhoria de processos.
 
-Aplicação Android desenvolvida para operações de inventário utilizando leitura RFID.
+</td><td align="center" width="25%">🛡️
 
-Principais recursos
+Compliance Tech
 
-- Leitura RFID em tempo real
-- Inventário de produtos
-- Persistência local
-- Geração de relatórios
-- Importação e exportação CSV
-- Utilização em ambiente de produção
+Soluções para controles internos, riscos e diligência.
 
-Stack: Android • Java • RFID • SQLite • CSV
+</td>
+</tr>
+</table>---
 
-"Repositório" (https://github.com/rbtzinn/RFID-NovoAtacarejo)
+<div align="center">📊 GitHub
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rbtzinn&show_icons=true&hide_border=true&theme=transparent"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbtzinn&layout=compact&hide_border=true&theme=transparent"/><br/><br/>
 
-Tecnologia aplicada a processos e Compliance
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rbtzinn&theme=transparent&hide_border=true"/></div>---
 
-Além do desenvolvimento tradicional, também trabalho na aplicação de tecnologia em ambientes corporativos e governamentais.
+🎓 Formação
 
-Entre as iniciativas estão:
-
-- automação de controles internos;
-- análise e consolidação de grandes bases de dados;
-- desenvolvimento de dashboards gerenciais;
-- digitalização de processos;
-- integração de dados públicos;
-- ferramentas de apoio à diligência de terceiros;
-- uso de inteligência artificial para análise e organização de informações;
-- soluções de apoio à gestão de riscos e Compliance.
-
-Essa experiência me permite trabalhar não apenas na implementação técnica, mas também na compreensão do problema de negócio e transformação de requisitos em produtos digitais.
-
----
-
-Formação
+<table>
+<tr><td width="50%">🎓 Ciência da Computação
+UNINASSAU
+2022 — 2025
 
 🎓 Análise e Desenvolvimento de Sistemas
-Gran Faculdade • 2025–2026
+Gran Faculdade
+2025 — 2026
 
-🎓 Ciência da Computação
-UNINASSAU • 2022–2025
-
-💻 Engenharia Front-end
-EBAC • 2023–2025
+</td><td width="50%">💻 Engenharia Front-end
+EBAC
+2023 — 2025
 
 📊 Técnico em Administração
-ETE José Alencar Gomes da Silva • 2019–2021
+ETE José Alencar Gomes da Silva
+2019 — 2021
 
----
+</td></tr>
+</table>---
 
-Atualmente estudando e desenvolvendo
+<div align="center">🤝 Vamos conversar?
 
-- Arquitetura Frontend
-- Next.js
-- Design Systems
-- Performance Web
-- Visualização de Dados
-- Inteligência Artificial aplicada a produtos
-- Automação de processos
-- Sistemas orientados a dados
+Tenho interesse em oportunidades envolvendo
 
----
+React • TypeScript • Next.js • Dados • IA • Automação
 
-<div align="center">Vamos construir algo juntos?
+<br/><a href="https://portifoliorbt.vercel.app">
+<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/roberto-gabriel-ara%C3%BAjo-miranda/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:rbtgabriel04@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><br/><br/>
 
-Tenho interesse em oportunidades e projetos envolvendo:
-
-Frontend • React • TypeScript • Next.js • Dados • Automação • IA
-
-""Portfolio" (https://img.shields.io/badge/Conheça_meu_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)" (https://portifoliorbt.vercel.app)
-
-"LinkedIn" (https://www.linkedin.com/in/roberto-gabriel-ara%C3%BAjo-miranda/) •
-"GitHub" (https://github.com/rbtzinn) •
-"E-mail" (mailto:rbtgabriel04@gmail.com)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/></div>
