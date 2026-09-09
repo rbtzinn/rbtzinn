@@ -1,9 +1,13 @@
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:06B6D4&text=Roberto%20Miranda&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Frontend%20Engineer%20-%20Data%20Products%20-%20AI%20Automation&descAlignY=58&descSize=18"
-/>
+# Roberto Miranda
+
+### Frontend Engineer · Data Products · AI & Automation
+
+Construo produtos digitais que transformam  
+**dados e processos complexos em experiências simples e eficientes.**
+
+📍 Recife, Pernambuco — Brasil
 
 <br/>
 
@@ -14,19 +18,8 @@
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:rbtgabriel04@gmail.com">
-  <img src="https://img.shields.io/badge/CONTATO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/E--MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<h3>Frontend Engineering · Data Products · Artificial Intelligence</h3>
-
-<p>
-Construo <strong>interfaces, dashboards e produtos orientados a dados</strong>, transformando<br/>
-processos complexos em experiências simples, eficientes e escaláveis.
-</p>
-
-<p>📍 Recife, Pernambuco — Brasil</p>
 
 </div>
 
@@ -34,273 +27,244 @@ processos complexos em experiências simples, eficientes e escaláveis.
 
 ## 👋 Sobre mim
 
-Sou desenvolvedor com foco em **Frontend Engineering**, trabalhando principalmente
-com **React, TypeScript e Next.js**.
+Sou desenvolvedor com foco em **Frontend Engineering**, trabalhando principalmente com
+**React, TypeScript e Next.js**.
 
-Minha experiência vai além da construção de interfaces. Desenvolvo soluções envolvendo
-**visualização de dados, integrações com APIs, aplicações mobile, automações e processamento
-de grandes bases de dados**.
+Minha experiência também envolve **produtos orientados a dados, dashboards,
+integrações com APIs, aplicações mobile e automações**.
 
-Também exploro a aplicação de tecnologia e inteligência artificial em **Compliance,
-gestão de riscos e diligência**, especialmente em ambientes corporativos e governamentais.
+Tenho interesse especial na interseção entre **tecnologia, dados e negócio**,
+aplicando software e inteligência artificial em áreas como **Compliance,
+Due Diligence, gestão de riscos e análise de informações**.
 
-Atualmente, meus principais focos são:
+Atualmente trabalho principalmente com:
 
-- ⚛️ **Frontend Engineering** com React e Next.js
-- 📊 **Dashboards e Data Visualization**
-- 🔗 **APIs e integrações**
-- 🤖 **Inteligência Artificial e Automação**
-- 🛡️ **Compliance Tech e Due Diligence**
-- 🏛️ **Tecnologia para o setor público**
-- 📱 **Desenvolvimento Mobile**
-
----
-
-<div align="center">
-
-## ⚡ Tech Stack
-
-### Frontend
-
-<img
-  src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,vite"
-/>
-
-<br/>
-
-### Backend & Data
-
-<img
-  src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sqlite,python"
-/>
-
-<br/>
-
-### Mobile & Tools
-
-<img
-  src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,docker,git,github,aws,figma"
-/>
-
-<br/><br/>
-
-### Também utilizo
-
-`D3.js` · `Tremor` · `TanStack Query` · `Zustand` · `shadcn/ui`  
-`PapaParse` · `Google Apps Script` · `REST APIs` · `Data Visualization`
-
-</div>
+- ⚛️ Frontend Engineering
+- 📊 Data Visualization
+- 🔗 APIs e integrações
+- 🤖 Inteligência Artificial e Automação
+- 🛡️ Compliance Tech
+- 📱 Desenvolvimento Mobile
 
 ---
 
-# 🚀 Projetos selecionados
+## 🚀 Projetos em destaque
 
-## 🛡️ Diligência Suape
+Projetos desenvolvidos para resolver problemas reais em diferentes contextos,
+de análise de dados e Compliance a mobilidade e operações RFID.
 
-Plataforma voltada para **due diligence, análise cadastral e investigação de riscos**,
-consolidando diferentes fontes de informação em uma interface orientada à análise.
+### 🛡️ Diligência Suape
 
-O projeto explora conceitos de **OSINT, Compliance Tech, análise de relacionamentos,
-pesquisa de notícias e visualização de dados**.
+Plataforma para apoio a processos de **Due Diligence e análise de riscos**,
+centralizando informações relevantes para investigação e tomada de decisão.
+
+O projeto explora pesquisa de informações, análise de relacionamentos,
+notícias, dados públicos e automações aplicadas ao processo de diligência.
 
 **Principais pontos**
 
-- 🔎 Pesquisa e enriquecimento de informações
-- 📰 Análise de notícias e exposição pública
-- 🕸️ Visualização de relacionamentos
-- 🏢 Análise de empresas e pessoas vinculadas
-- 🤖 Uso de automação e inteligência artificial
-- 🛡️ Apoio a processos de diligência e compliance
+- Pesquisa e consolidação de informações
+- Análise de empresas e pessoas relacionadas
+- Busca e análise de notícias
+- Visualização de relacionamentos
+- Automação de processos investigativos
+- Aplicação de IA no apoio à análise
 
-**Tecnologias**
+**Stack**
 
-`React` · `TypeScript` · `Data Visualization` · `APIs` · `AI` · `OSINT`
+`React` · `TypeScript` · `APIs` · `Data Visualization` · `AI` · `Automation`
 
-<a href="https://github.com/rbtzinn/diligenciaSuape">
-  <img src="https://img.shields.io/badge/VER%20CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[💻 Ver código](https://github.com/rbtzinn/diligenciaSuape)
 
 ---
 
-## 🏛️ EMPETUR Analytics
+### 🏛️ EMPETUR Analytics
 
-Dashboard de transparência pública desenvolvido para exploração e análise das
-**contratações artísticas do Governo de Pernambuco**.
+Dashboard desenvolvido para análise das **contratações artísticas do Governo de Pernambuco**.
 
-O projeto transforma uma grande base de dados em uma experiência de análise visual,
-permitindo investigar valores, artistas, municípios, eventos e padrões de contratação.
+A aplicação transforma dados públicos em uma experiência visual que facilita
+a exploração de valores, artistas, municípios, eventos e padrões de contratação.
 
 **Principais pontos**
 
-- 📊 KPIs e indicadores
-- 🗺️ Visualização geográfica
-- 🔎 Filtros sincronizados
-- 📁 Exportação de dados
-- ⚡ Processamento de dados no navegador
-- 📈 Visualizações interativas
+- KPIs e indicadores
+- Visualização geográfica
+- Filtros sincronizados
+- Processamento de grandes bases
+- Exportação de dados
+- Visualizações interativas
 
-**Tecnologias**
+**Stack**
 
 `React` · `Vite` · `Tailwind CSS` · `D3.js` · `Tremor`
 
-<a href="https://empetur-painel.vercel.app">
-  <img src="https://img.shields.io/badge/ABRIR%20PROJETO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/rbtzinn/EMPETUR_PAINEL">
-  <img src="https://img.shields.io/badge/VER%20CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[🌐 Abrir projeto](https://empetur-painel.vercel.app) ·
+[💻 Ver código](https://github.com/rbtzinn/EMPETUR_PAINEL)
 
 ---
 
-## 🛍️ LUXE Store
+### 🚴 Rolê de Bike
 
-E-commerce moderno desenvolvido com foco em **experiência de usuário, gerenciamento
-de estado e arquitetura frontend**.
+Produto web desenvolvido com foco na **experiência digital relacionada ao ciclismo**,
+priorizando navegação simples, identidade visual e experiência em dispositivos móveis.
+
+O projeto trabalha a construção de uma experiência de produto voltada para
+usuários do universo da bicicleta.
 
 **Principais pontos**
 
-- 🛒 Carrinho persistente
-- ❤️ Wishlist
-- 🌎 Internacionalização
-- ⚙️ Painel administrativo
-- 📱 Interface responsiva
-- 🧠 Gerenciamento de estado
+- Interface responsiva
+- Experiência mobile-first
+- Identidade visual própria
+- Navegação orientada ao usuário
+- Produto publicado em produção
 
-**Tecnologias**
+**Stack**
 
-`React` · `TypeScript` · `Tailwind CSS` · `Zustand` · `shadcn/ui`
+`Frontend` · `Responsive Design` · `UX/UI` · `Web`
 
-<a href="https://luxestore-eight.vercel.app">
-  <img src="https://img.shields.io/badge/ABRIR%20PROJETO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/rbtzinn/luxestore">
-  <img src="https://img.shields.io/badge/VER%20CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[🌐 Abrir projeto](https://roledebike.vercel.app/)
 
 ---
 
-## 🚴 Rolê de Bike
-
-Aplicação web criada para oferecer uma experiência digital voltada ao universo do ciclismo,
-com foco em comunidade, mobilidade e descoberta de experiências sobre duas rodas.
-
-O projeto foi desenvolvido com atenção à **experiência do usuário, identidade visual,
-responsividade e navegação em dispositivos móveis**.
-
-**Principais pontos**
-
-- 🚴 Experiência voltada ao ciclismo
-- 📱 Interface responsiva
-- 🎨 Identidade visual própria
-- ⚡ Navegação moderna e fluida
-- 🌐 Aplicação publicada em produção
-- 🧭 Experiência orientada ao usuário
-
-**Tecnologias**
-
-`Frontend` · `Web` · `Responsive Design` · `UX/UI`
-
-<a href="https://roledebike.vercel.app/">
-  <img src="https://img.shields.io/badge/ABRIR%20PROJETO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-## 📡 RFID — Novo Atacarejo
+### 📡 RFID — Novo Atacarejo
 
 Aplicação Android desenvolvida para operações de **inventário utilizando tecnologia RFID**.
 
-A solução trabalha leitura RFID em tempo real, persistência local e geração de
-informações para operações de estoque.
+A solução permite trabalhar com leitura RFID em tempo real, armazenamento local
+e tratamento de dados relacionados às operações de estoque.
 
 **Principais pontos**
 
-- 📡 RFID em tempo real
-- 📦 Inventário
-- 💾 Persistência local
-- 📑 Relatórios
-- 🔄 Importação e exportação CSV
+- Leitura RFID em tempo real
+- Inventário
+- Persistência local
+- Relatórios
+- Importação e exportação de dados
+- Operação em dispositivos Android
 
-**Tecnologias**
+**Stack**
 
 `Android` · `Java` · `RFID` · `SQLite`
 
-<a href="https://github.com/rbtzinn/RFID-NovoAtacarejo">
-  <img src="https://img.shields.io/badge/VER%20CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[💻 Ver código](https://github.com/rbtzinn/RFID-NovoAtacarejo)
 
 ---
 
-# 🧠 Tecnologia + Dados + Negócio
+## ⚡ Tecnologias
+
+### Frontend
+
+`React` · `Next.js` · `TypeScript` · `JavaScript`  
+`HTML` · `CSS` · `Tailwind CSS` · `Sass` · `Vite`
+
+### Backend & Data
+
+`Node.js` · `Express` · `Python`  
+`PostgreSQL` · `MySQL` · `SQLite`
+
+### Data Visualization
+
+`D3.js` · `Tremor` · `PapaParse`
+
+### State & Frontend Architecture
+
+`TanStack Query` · `Zustand` · `shadcn/ui`
+
+### Mobile
+
+`Android` · `Java` · `Kotlin`  
+`Flutter` · `Dart`
+
+### Tools & Cloud
+
+`Git` · `GitHub` · `Docker` · `AWS` · `Figma`
+
+---
+
+## 🧠 Tecnologia + Dados + Negócio
+
+Minha atuação está principalmente na interseção entre quatro áreas:
 
 ### ⚛️ Frontend Engineering
 
-Construção de interfaces modernas, performáticas e responsivas para sistemas
-com diferentes níveis de complexidade.
+Construção de interfaces modernas e sistemas capazes de apresentar
+informações complexas de forma simples e intuitiva.
 
 ### 📊 Data Products
 
-Transformação de grandes bases de dados em **dashboards, indicadores, filtros,
-visualizações e ferramentas de exploração**.
+Transformação de grandes bases de dados em dashboards,
+indicadores, filtros e ferramentas de exploração.
 
 ### 🤖 AI & Automation
 
-Aplicação de inteligência artificial e automação para pesquisa, análise,
-tratamento de informações e otimização de processos.
+Aplicação de inteligência artificial e automação em pesquisa,
+análise de informações e melhoria de processos.
 
 ### 🛡️ Compliance Tech
 
-Tecnologia aplicada a **due diligence, controles internos, riscos,
-investigação de relacionamentos e apoio à tomada de decisão**.
+Uso de tecnologia em processos de Due Diligence,
+gestão de riscos, controles internos e análise de relacionamentos.
 
 ---
 
-# 🎯 Áreas de interesse
+## 💡 Como penso software
 
-Tenho interesse especialmente em projetos que combinem:
+Gosto de trabalhar em produtos onde tecnologia não é apenas a interface.
+
+Procuro entender o **problema, os dados e o processo de negócio** antes de definir a solução.
+
+```text
+Problema real
+     ↓
+Dados e contexto
+     ↓
+Experiência do usuário
+     ↓
+Software
+     ↓
+Automação e inteligência
+```
+
+Meu objetivo é construir sistemas que não apenas exibam informações,
+mas ajudem pessoas a **entender cenários e tomar decisões melhores**.
+
+---
+
+## 🎯 Principais interesses
 
 ```text
 Frontend Engineering
-        +
 Data Visualization
-        +
 Artificial Intelligence
-        +
 Automation
-        +
-Business Problems
+Data Products
+Compliance Tech
+Developer Experience
+Product Engineering
 ```
-
-Gosto de construir produtos em que a interface não seja apenas uma camada visual,
-mas uma ferramenta capaz de **organizar informações complexas e melhorar decisões**.
 
 ---
 
-# 🎓 Formação
+## 🎓 Formação
 
-### 🎓 Ciência da Computação
+**Ciência da Computação**  
+UNINASSAU · 2022 — 2025
 
-**UNINASSAU**  
-2022 — 2025
+**Análise e Desenvolvimento de Sistemas**  
+Gran Faculdade · 2025 — 2026
 
-### 🎓 Análise e Desenvolvimento de Sistemas
+**Engenharia Front-end**  
+EBAC · 2023 — 2025
 
-**Gran Faculdade**  
-2025 — 2026
-
-### 💻 Engenharia Front-end
-
-**EBAC**  
-2023 — 2025
-
-### 📊 Técnico em Administração
-
-**ETE José Alencar Gomes da Silva**  
-2019 — 2021
+**Técnico em Administração**  
+ETE José Alencar Gomes da Silva · 2019 — 2021
 
 ---
 
 <div align="center">
 
-## 🤝 Vamos construir alguma coisa?
+## 🤝 Vamos conversar?
 
 Tenho interesse em oportunidades e projetos envolvendo
 
@@ -309,7 +273,7 @@ Tenho interesse em oportunidades e projetos envolvendo
 <br/>
 
 <a href="https://portifoliorbt.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTFÓLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/roberto-gabriel-ara%C3%BAjo-miranda/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -320,9 +284,8 @@ Tenho interesse em oportunidades e projetos envolvendo
 
 <br/><br/>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"
-/>
+<sub>
+Frontend Engineering · Data Products · AI & Automation
+</sub>
 
 </div>
